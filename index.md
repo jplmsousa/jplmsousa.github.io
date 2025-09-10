@@ -2,7 +2,7 @@
 José Pedro Sousa
 ---
 
-![Profile photo](/assets/img/IMG_4059.jpeg){: width="100px" style="border-radius:50%"}
+![Profile photo](/assets/img/IMG_4059.jpeg){: width="200px"}
 
 
 Hi! I'm José Pedro, a third year PhD student and Teaching Assistant at Nova SBE. 
