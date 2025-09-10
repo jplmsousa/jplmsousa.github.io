@@ -20,11 +20,8 @@ author: José Pedro Sousa
 ###############################################
 
 navbar-links:
-  About Me: "aboutme"
-  Resources:
-    - CV: "CV"
-    - Research: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
+  CV: "aboutme"
+  Research : "research"
 
 ################
 # --- Logo --- #
