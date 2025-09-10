@@ -1,5 +1,4 @@
 
-José Pedro Sousa
 ---
 
 ![Profile photo](/assets/img/IMG_4059.jpeg){: width="200px"}
