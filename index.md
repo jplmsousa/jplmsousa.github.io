@@ -1,5 +1,5 @@
 
-title: "José Pedro Sousa"
+José Pedro Sousa
 ---
 
 Hi! I'm José Pedro, a third year PhD student and Teaching Assistant at Nova SBE. 
