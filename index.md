@@ -13,7 +13,7 @@ I have previous work experience as advisor for the Secretary of State for Tax Af
 
   <!-- Right column: photo -->
   <div>
-    <img src="/assets/img/IMG_4059.jpeg" alt="José Pedro Sousa" width="150" ">
+    <img src="/assets/img/IMG_4059.jpeg" width="150">
   </div>
 
 </div>
