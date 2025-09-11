@@ -1,6 +1,3 @@
-
-
- 
 Work in Progress
 
 - **Gimme shelter: Can Abolishing Transaction Taxes Help the Young?**  
