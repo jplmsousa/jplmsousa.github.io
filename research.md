@@ -4,8 +4,8 @@
 Work in Progress
 
 - **Gimme shelter: Can Abolishing Transaction Taxes Help the Young?**  
-  *with João Pereira dos Santos and Carolina Nunes
-  Draft coming soon. 
+  with João Pereira dos Santos and Carolina Nunes
+  *Draft coming soon*. 
  
 
 - **Household Wealth Inequalities in Portugal**  
