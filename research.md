@@ -19,4 +19,4 @@ Pre-Doctoral Work
 
 - **Asymmetric Fiscal and Monetary Policies: A Two Country Model of European Integration**  
   with José Tavares. [Master Thesis]
-  Download [here](/assets/img/Versao_Final_Tese José Pedro Sousa 33053.pdf)
+  Download [here](/assets/img/master.pdf)
