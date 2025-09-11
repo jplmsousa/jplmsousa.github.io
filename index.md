@@ -1,4 +1,5 @@
-# José Pedro Sousa 
+---
+layout: home
 ---
 
 <div style="display: flex; align-items: center; justify-content: space-between; margin-top: 20px;">
