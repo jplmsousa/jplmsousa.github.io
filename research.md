@@ -7,8 +7,9 @@ Work in Progress
  
 
 - **Household Wealth Inequalities in Portugal**  
-  *with Susana Peralta, David Leite-Neves, Bruno Carvalho, Gonçalo Marques   
-  
+  with Susana Peralta, David Leite-Neves, Bruno Carvalho, Gonçalo Marques   
+
+  *Draft available upon request*   
 
 ---
 
