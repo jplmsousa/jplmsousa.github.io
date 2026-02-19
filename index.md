@@ -1,7 +1,8 @@
 ---
 layout: home
+title: José Pedro Sousa 
 ---
-<title>José Pedro Sousa </title>
+
 <div style="display: flex; align-items: center; justify-content: space-between; margin-top: 20px;">
   
   <!-- Left column: text -->
