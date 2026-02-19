@@ -9,7 +9,7 @@ title: José Pedro Sousa
   <div style="flex: 1; padding-right: 20px;">
     <p>Hi! I'm José Pedro, a third year PhD student and Teaching Assistant at Nova SBE.</p>
     <p> I'm interested in Public Economics, in particular how taxation and public policy shape inequality, housing markets, and firm behavior. I'm currently working in wealth inequality and housing transaction taxes in Portugal.</p>
-    <p>I have previous work experience as advisor for the Secretary of State for Tax Affairs and as Intern Economist at Banco de Portugal.</p>
+    <p>I have worked as advisor to the Secretary of State for Tax Affairs and as Intern Economist at Banco de Portugal.</p>
     <p>Feel free to drop me a message wherever you feel most convenient.</p>
   </div>
   
