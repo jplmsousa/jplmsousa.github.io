@@ -18,5 +18,3 @@ title: José Pedro Sousa
     <img src="/assets/img/IMG_4059.jpeg" width="230" alt="">
   </div>
 </div>
-
----
